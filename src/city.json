@@ -1,0 +1,16 @@
+[
+    {"id": 1, "name": "Hyderabad"},
+    {"id": 2, "name": "Warangal"},
+    {"id": 3, "name": "Karimnagar"},
+    {"id": 4, "name": "Peddapalli"},
+    {"id": 5, "name": "Manchiryal"},
+    {"id": 6, "name": "Adilabad"},
+    {"id": 7, "name": "Jagityal"},
+    {"id": 8, "name": "Rangareddy"},
+    {"id": 9, "name": "Medak"},
+    {"id": 10, "name": "Nalgonda"},
+    {"id": 11, "name": "Hanmakonda"},
+    {"id": 12, "name": "Chennur"},
+    {"id": 13, "name": "Siddipet"},
+    {"id": 13, "name": "Hybrid"}
+]
